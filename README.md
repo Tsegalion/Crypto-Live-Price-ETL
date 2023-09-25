@@ -1,6 +1,6 @@
 **ETL Pipeline On Google Cloud**
 
-The purpose of this project is to build a simple ETL pipeline using Google Cloud Service
+The purpose of this project was to build a simple ETL pipeline using Google Cloud Service to ingest live prices of crypto assets to BigQuery
 
 **PROJECT SUMMARY**
 - Created a Cloud Function using python to authenticate with the CoinCap API and extract live data from CoinCap. 
