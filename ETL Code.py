@@ -27,7 +27,7 @@ def fetch_data(api_key):
 def extract_data(asset):
     currency = asset['name']
     
-    # Get the current date and time
+    # Getting the current date and time
     date_time = datetime.now()
    
     total_supply = asset['supply']
